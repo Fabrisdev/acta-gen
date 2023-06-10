@@ -1,0 +1,12 @@
+#Integrantes (al ejecutar se pregunta si vino)
+integrante1: Fabrizio Cobucci
+integrante2: Francisco Cazeneuve
+integrante3: Hernán Aguirre
+
+#Lugar de reunión, si se omite se preguntará al ejecutar
+lugar: Montevideo
+
+#Orden del día, si se omite se preguntará al ejecutar
+orden_del_dia:
+  - Revisión de tareas realizadas
+  - Asignar nuevas tareas
